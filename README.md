@@ -52,14 +52,6 @@ O hub principal agrupa **15 projetos** divididos em categorias estratégicas:
 
 ---
 
-frase = "Gravestone Henry"
-
-
-resultado = frase[0:]
-
-
-print(resultado)
-
 <p align="center">
   <br>
   <sub style="font-family: 'Courier New', Courier, monospace; letter-spacing: 2px; color: #71717a;">
