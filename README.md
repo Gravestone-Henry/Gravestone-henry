@@ -1,6 +1,14 @@
-#  Gravestone Henry | FullStack Developer Hub
-
-> *"Sistemas colapsam, dados se perdem no tempo, mas a arquitetura de software permanece."*
+<table>
+  <tr>
+    <td>
+      <h1># Gravestone Henry | FullStack Developer Hub</h1>
+      <p><em>"Sistemas colapsam, dados se perdem no tempo, mas a arquitetura de software permanece."</em></p>
+    </td>
+    <td align="right" width="250px">
+      <img src="https://i1.sndcdn.com/artworks-cksdjPmUvBHIPBfK-N6HkHw-t500x500.jpg" alt="Gravestone Henry Avatar" width="160px" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
 [![Status: Operacional](https://img.shields.io/badge/STATUS-SISTEMAS_OPERACIONAIS_ATIVOS-22c55e?style=flat-square&logo=terminal)](https://github.com/Gravestone-Henry)
 [![Ciência da Computação](https://img.shields.io/badge/CURSO-CIÊNCIA_DA_COMPUTAÇÃO-blue?style=flat-square&logo=bookstack)](https://github.com/Gravestone-Henry)
@@ -15,10 +23,10 @@ Sou estudante de **Ciência da Computação** (Estácio) e Desenvolvedor **FullS
 
 ##  Stack Tecnológica & Habilidades
 
-* **Linguagens:** Python, JavaScript (ES6+), HTML5, CSS3, SQL.
-* **Frontend:** Tailwind CSS, DOM Manipulation, Canvas API, Responsive Design.
-* **Backend & Bancos de Dados:** Node.js, Supabase, SQLite3, CRUD Systems, REST APIs.
-* **Ferramentas & Deploy:** Git, GitHub Pages, Render, CLI Environments.
+- **Linguagens:** Python, JavaScript (ES6+), HTML5, CSS3, SQL.
+- **Frontend:** Tailwind CSS, DOM Manipulation, Canvas API, Responsive Design.
+- **Backend & Bancos de Dados:** Node.js, Supabase, SQLite3, CRUD Systems, REST APIs.
+- **Ferramentas & Deploy:** Git, GitHub Pages, Render, CLI Environments.
 
 ---
 
@@ -46,9 +54,9 @@ O hub principal agrupa **15 projetos** divididos em categorias estratégicas:
 
 ##  Contato & Conexões
 
-* **GitHub:** [@Gravestone-Henry](https://github.com/Gravestone-Henry)
-* **E-mail Acadêmico/Profissional:** [202603246851@alunos.estacio.br](mailto:202603246851@alunos.estacio.br)
-* **Portfólio Web Hub:** [Acessar Hub Online](https://gravestone-henry.github.io/)
+- **GitHub:** [@Gravestone-Henry](https://github.com/Gravestone-Henry)
+- **E-mail Acadêmico/Profissional:** [202603246851@alunos.estacio.br](mailto:202603246851@alunos.estacio.br)
+- **Portfólio Web Hub:** [Acessar Hub Online](https://gravestone-henry.github.io/)
 
 ---
 
